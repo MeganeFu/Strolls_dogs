@@ -2,6 +2,6 @@ Stroll
 
 
 
-* `bundle install`
-* `rails db:migrate`
-* `rails db:seed`
+`bundle install`
+`rails db:migrate`
+`rails db:seed`
